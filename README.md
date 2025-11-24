@@ -12,8 +12,11 @@ hipótesis más prometedoras son la 9 (Add a subscription form to all the main p
 En la parte 2:
 - los primeros 4 ejercicios son de estabilidad de métricas acumuladas; En los cuales agrupamos datos acumulados de promedio de ingresos y pedidos para gráficarlos, calcular su tasa de conversión y obtener conclusiones.
 
-
-
 Conclusión de Parte 2. Actividades 1 a 4:
 La tasa de conversión de los grupos A/B no se estabilizá, por lo tanto no podemos sacar conclusiones serteras.
 
+Parte 3:
+- Análisamos paso a paso los resultados de las pruebas A/B buscando  la significancia estadística de las diferencias en la tasa de conversión y el tamaño del pedido entre los grupos, utilizando los datos "sin procesar" y después procesando los datos (eliminando aomalías)
+
+Conclusiones de parte 3. Actividades 5 a 13:
+Calculando los porcentiles 95 y 99 para poner límites superiores, después, al calcular la diferencia relativa entre la conversión entre los grupos y la diferencia relativa del tamaño promedio de pedidos por grupo primero sin procesar y luego filtrados concluyo que la prueba debe de seguir por los menos dos o tres semanas más para volver a calcular las métricas nuevamente.
