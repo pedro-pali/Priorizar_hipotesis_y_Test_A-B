@@ -19,4 +19,4 @@ Parte 3:
 - Análisamos paso a paso los resultados de las pruebas A/B buscando  la significancia estadística de las diferencias en la tasa de conversión y el tamaño del pedido entre los grupos, utilizando los datos "sin procesar" y después procesando los datos (eliminando aomalías)
 
 Conclusiones de parte 3. Actividades 5 a 13:
-Calculando los porcentiles 95 y 99 para poner límites superiores, después, al calcular la diferencia relativa entre la conversión entre los grupos y la diferencia relativa del tamaño promedio de pedidos por grupo primero sin procesar y luego filtrados concluyo que la prueba debe de seguir por los menos dos o tres semanas más para volver a calcular las métricas nuevamente.
+Calculando los porcentiles 95 y 99 para poner límites superiores, después, al calcular la diferencia relativa de la conversión entre los grupos y la diferencia relativa del tamaño promedio de pedidos por grupo primero sin procesar y luego filtrados concluyo que la prueba debe de seguir por los menos dos o tres semanas más para volver a calcular las métricas nuevamente.
